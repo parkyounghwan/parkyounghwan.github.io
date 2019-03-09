@@ -6,8 +6,8 @@ categories: mysql
   
 ### 문제 상황
 > 인덱스가 걸려 있는 컬럼을 GROUP BY를 사용하여 조회하는데, 속도가 나오질 않는다.
- 
- 
+
+    
 ## GROUP BY 란?
 'GROUP BY' 절은 동일한 값을 가진 데이터를 [집계](https://ko.dict.naver.com/#/entry/koko/a13a75d37c87458d8aa5b0fcd15b6e80)해서 조회하고자 할 때 사용하는 문장이다. 
 
@@ -34,7 +34,7 @@ GROUP BY 이름
 ~~~
  
 
-'GROUP BY' 와 집계 함수의 사용
+__'GROUP BY' 와 집계 함수의 사용__
 * `집계 함수`는 'GROUP BY' 절에 표시된 컬럼들에 집계한 결과값을 만들어 준다. 
 * 'GROUP BY' 절에 표시하지 않은 컬럼도 `집계 함수`를 사용하면 SELECT 절에 사용이 가능하다. 
 
