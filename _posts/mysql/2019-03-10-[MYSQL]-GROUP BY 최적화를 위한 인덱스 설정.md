@@ -6,6 +6,7 @@ categories: mysql
   
 ### 문제 상황
 > 인덱스가 걸려 있는 컬럼을 GROUP BY를 사용하여 조회하는데, 속도가 나오질 않는다.
+ 
 
     
 ## GROUP BY 란?
@@ -32,7 +33,7 @@ SELECT 이름
 FROM 학교
 GROUP BY 이름
 ~~~
- 
+
 
 __'GROUP BY' 와 집계 함수의 사용__
 * `집계 함수`는 'GROUP BY' 절에 표시된 컬럼들에 집계한 결과값을 만들어 준다. 
@@ -45,7 +46,8 @@ SELECT 이름, COUNT(*) as 인원
 FROM 학교
 GROUP BY 이름
 ~~~
- 
+
+
  
 ## GROUP BY 최적화
 * __GROUP BY 절은 테이블을 스캔하고 결과를 임시 테이블에 넣어서 집계하는 과정을 거친다.__ 
