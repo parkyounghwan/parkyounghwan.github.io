@@ -57,15 +57,15 @@ GROUP BY 이름
 * __GROUP BY 를 빠르게 하기 위해서는 GROUP BY 에 사용된 컬럼 값으로 정렬이 되어 있어야 한다.__  
     * GROUP BY 는 동일한 값을 동일한 그룹으로 묶겠다는 것이므로, 정렬이 되어 있으면 그 자체로 그룹핑이 완료되었기 때문이다.  
     * 필요하다면, 정렬을 위해 GROUP BY 에 사용되는 컬럼을 INDEX로 생성해야 한다.  
-  
 
-
+    
 {% highlight lua %}
 SELECT A.*, COALESCE(SUM(B.count),0) as count 
 FROM sgRNA_1 AS A LEFT OUTER JOIN offtargets_1 AS B ON A.sgRNA_ID = B.sgRNA_ID
 WHERE ((A.c >= 758454.9288256228 AND A.c <= 759504.9288256228)) 
 GROUP BY sgRNA_ID; 
 {% endhighlight %}
+
 : COALESCE() - ‘null’ 체크 함수, COALESCE(param1, param2) => ‘param1’이 ‘null’ 일 경우 ‘param2’의 값으로 대체한다. 
 : ‘B’ 는 ‘offtarget_1’ 테이블, 해당 테이블의 count 칼럼은 row의 특정한 상수를 나타냄. 
  
@@ -78,6 +78,5 @@ GROUP BY sgRNA_ID;
 : 만약 해당 범위에 대한 A 테이블의 갯수가 100개가 나온다면, 최소 100줄은 나와야 한다. 
  
 : 문제 지점이다, 해당 쿼리 절에 인덱스를 걸어줘야하는데 어떤 테이블의 인덱스를 걸어줘야 데이터 정합성에 위배되지 않고 결과를 출력할 수 있을 것인가. 
-: 또, 만약, A 테이블의 인덱스로 사용할 경우, 이미 A 테이블에서 인덱스 검색을 사용(WHERE 절)하고 있는데, 두개의 인덱스를 MySQL이 소화 할 수 있는지.
-~~~
+: 또, 만약, A 테이블의 인덱스로 사용할 경우, 이미 A 테이블에서 인덱스 검색을 사용(WHERE 절)하고 있는데, 두개의 인덱스를 MySQL이 소화 할 수 있는지. 
 
