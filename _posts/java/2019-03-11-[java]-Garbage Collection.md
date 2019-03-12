@@ -3,7 +3,7 @@ layout: post
 comments: false
 categories: java
 ---
-[Naver, D2 - Garbage Collection](https://d2.naver.com/helloworld/1329)  
+참고: [Naver, D2 - Garbage Collection](https://d2.naver.com/helloworld/1329)  
 
 ## Garbarge Collection
 > GC 과정에 관심을 가잘 정도라면 규모가 일정 이상인 애플리케이션을 제작해 본 경험이 있을 것이라는 전제가 깔린다. 또한 어떤 GC 알고리즘을 선택할 것인지 고민할 수 있다는 것은 제작한 애플리케이션의 특징을 정확히 이해 했다는 반증이다.  
