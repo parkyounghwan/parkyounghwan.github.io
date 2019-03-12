@@ -9,4 +9,4 @@ categories: network
 ### HTTP
 
 ### HTTPS
-![public-key-secure](./static/img/public-key-secure.jpg)
+![public-key-secure](../../static/img/public-key-secure.jpg)
