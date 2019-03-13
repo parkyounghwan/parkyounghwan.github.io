@@ -5,8 +5,6 @@ categories: network
 ---
 
 > HTTP 와 HTTPS 의 차이를 알아보고 나아가, HTTP/1.x 와 HTTP/2.0 에 대해서 알아본다.  
-  
----
 
 우선, HTTP는 웹 브라우져(Client) 와 웹 서버(Server) 간의 데이터를 주고 받기 위한 약속(protocol) 이다. 데이터는 HTML 같은 문서를 요청하고 서버에서는 데이터를 Text 형태로 보낸다. 따라서 네트워크 안에서 신호를 가로채게 된다면 내용을 그대로 볼 수 있다. `HTTPS`는 주고 받는 종단간에 __암호화__ 하여 연결한다. 
 
@@ -17,8 +15,7 @@ categories: network
   
 ![Multiplaxing](/static/img/Multiplaxing.png)  
 
-#### +
----
+# +
 * TLS/SSL
     * Transport Layer Security / Secure Socket Layer
     * 인터넷과 같이 TCP/IP 네트워크를 사용하는 통신에 적용.
@@ -34,6 +31,6 @@ categories: network
     * 연결 방식, TCP 는 언제나 서버와 연결돼있어야한다, Request 없이도 Response 가 일어난다. HTTP 는 'keep-alive' 로 지속적인 연결은 가능하지만, 기본적으로는 close 돼 있으며, Request가 있어야 Response 가 일어난다. (TCP 의 지속적인 연결에 반대는, UDP)
   
 ---
-* 참고 사이트
+#### 참고 사이트
 HTTP/1.x 의 커넥션 관리 : [https://developer.mozilla.org/](https://developer.mozilla.org/ko/docs/Web/HTTP/Connection_management_in_HTTP_1.x)  
 Multiplaxing - SPDY : [https://nuli.navercorp.com/](https://nuli.navercorp.com/sharing/blog/post/1132452)  
