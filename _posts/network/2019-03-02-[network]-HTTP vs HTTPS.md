@@ -13,7 +13,7 @@ categories: network
 ---  
 '암호화', '복호화' 할 수 있는 서로 다른 키 2개(A, B)가 있다. 이 두개의 키는 서로 'A' 키로 암호화 하면 반드시 'B' 키로만 복호화 할 수 있고, 'B' 키로 암호화 하면 반드시 'A' 키로만 복호화 할 수 있다.
   
-<center>![Multiplaxing](/static/img/Multiplaxing.png)  </center>
+![Multiplaxing](/static/img/Multiplaxing.png){: .center}
 
 # +
 ---
