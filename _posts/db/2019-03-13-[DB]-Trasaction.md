@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-categories: mysql
+categories: db
 ---
 
 ### Transaction 이란?  
