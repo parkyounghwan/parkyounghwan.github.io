@@ -13,9 +13,10 @@ categories: network
 ---  
 '암호화', '복호화' 할 수 있는 서로 다른 키 2개(A, B)가 있다. 이 두개의 키는 서로 'A' 키로 암호화 하면 반드시 'B' 키로만 복호화 할 수 있고, 'B' 키로 암호화 하면 반드시 'A' 키로만 복호화 할 수 있다.
   
-![Multiplaxing](/static/img/Multiplaxing.png)  
+<center>![Multiplaxing](/static/img/Multiplaxing.png)  </center>
 
 # +
+---
 * TLS/SSL
     * Transport Layer Security / Secure Socket Layer
     * 인터넷과 같이 TCP/IP 네트워크를 사용하는 통신에 적용.
