@@ -1,7 +1,7 @@
 ---
 layout: post
 comment: false
-categories: java
+categories: Java
 ---
 
 >  JVM, JRE, JDK 의 용어와 역할에 대해 알아보자.  

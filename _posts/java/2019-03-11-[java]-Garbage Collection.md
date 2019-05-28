@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-categories: java
+categories: Java
 ---
 참고: [Naver, D2 - Garbage Collection](https://d2.naver.com/helloworld/1329)  
 

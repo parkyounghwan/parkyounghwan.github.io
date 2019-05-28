@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-categories: mysql
+categories: MySQL
 ---
   
 ### 문제 상황

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-categories: db
+categories: DB
 ---
 
 ### Transaction 이란?  

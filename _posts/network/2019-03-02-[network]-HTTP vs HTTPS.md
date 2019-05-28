@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-categories: network
+categories: Network
 ---
 
 > HTTP 와 HTTPS 의 차이를 알아보고 나아가, HTTP/1.x 와 HTTP/2.0 에 대해서 알아본다.  
