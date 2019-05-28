@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Android]-RecyclerView"
-date:   2016-08-26 15:14:54
+date:   2016-08-26
 categories: Android
 comments: false
 ---
