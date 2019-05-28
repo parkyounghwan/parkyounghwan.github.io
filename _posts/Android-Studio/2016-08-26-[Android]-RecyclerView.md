@@ -2,7 +2,7 @@
 layout: post
 title:  [Android-Studio]-RecyclerView
 date:   2016-08-26 
-categories: Android-Studio
+categories: Android
 comments: false
 ---
 
