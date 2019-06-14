@@ -33,7 +33,9 @@ comments: false
 - 'build.gradle'에서 적용된 모습 확인.  
 ![](https://t1.daumcdn.net/cfile/tistory/22151C4A57C7D4AC1B)
     > 위에 보이는 'cardview', 'glide', 'loopj' 같은 것도 동일하게 적용시키면 된다.  
-
+  
+  
+  
 
 #### 2. 레이아웃 잡기
 ---
