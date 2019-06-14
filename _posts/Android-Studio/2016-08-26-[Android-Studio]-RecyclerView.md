@@ -12,7 +12,8 @@ comments: false
 ### 뉴스피드 형식의 View 만들기
 뉴스피드 : 새로운 소식(news)가 흐르는(feed) 곳
 
-1. RecyclerView 지정하기  
+#### 1. RecyclerView 지정하기  
+---
 
 - RecyclerView가 기본 라이브러리가 아니어서 다운을 받아와야 한다.
 - 프로젝트 폴더 우클릭 후 **'Open Module Settings'** 클릭.  
@@ -34,7 +35,8 @@ comments: false
     > 위에 보이는 'cardview', 'glide', 'loopj' 같은 것도 동일하게 적용시키면 된다.  
 
 
-2. 레이아웃 잡기
+#### 2. 레이아웃 잡기
+---
 
 - 두개의 레이아웃이 필요한데 하나는 'RecyclerView'를 적용시키는 'main' view 하나와 recyclerview 각각의 
 
