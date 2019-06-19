@@ -245,9 +245,6 @@ footer .point{
  * post articles area
  */
 .post{
-	width: 80%;
-    float: none;
-	margin: 0 auto;
 	
 	padding:10px 30px;
 	font-size: 16px;
