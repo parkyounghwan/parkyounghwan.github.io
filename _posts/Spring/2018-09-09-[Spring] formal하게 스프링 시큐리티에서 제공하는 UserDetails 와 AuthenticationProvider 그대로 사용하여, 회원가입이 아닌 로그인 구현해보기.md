@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Spring]formal하게 스프링 시큐리티에서 제공하는 UserDetails 와 AuthenticationProvider 그대로 사용하여, 회원가입이 아닌 로그인 구현해보기"
+title:  "[Spring Security]UserDetails 와 AuthenticationProvider 그대로 사용하여, 로그인 구현해보기"
 date:   2018-09-09 
 categories: Spring
 comments: false
