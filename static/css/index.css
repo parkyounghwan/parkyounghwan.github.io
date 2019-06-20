@@ -2,11 +2,11 @@
  * Reset some basic elements
  */
 /* commom */
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Do+Hyeon|Nanum+Myeongjo|Noto+Serif+KR&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Do+Hyeon|Nanum+Gothic|Nanum+Myeongjo|Noto+Serif+KR&display=swap');
 
 body {
 	background-image: url(http://7q5cdt.com1.z0.glb.clouddn.com/bg-canvas_bg.jpg);
-	font-family: 'Helvetica Neue', 'Noto Serif KR', serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	/* 'Microsoft YaHei', 'SimHei', sans-serif; */
 }
 article p{
