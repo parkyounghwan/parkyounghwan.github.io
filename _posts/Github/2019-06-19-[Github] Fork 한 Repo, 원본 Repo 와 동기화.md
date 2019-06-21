@@ -46,7 +46,7 @@ comments: false
    ~~~
    $ git branch -a		           
    $ git checkout master
-   $ git merge upstream master
+   $ git merge upstream/master
    ~~~
 
 4. 로컬 저장소에서의 작업을 마쳤으니, GitHub 사이트 (내 원격 저장소) 에 push 를 해 준다.
