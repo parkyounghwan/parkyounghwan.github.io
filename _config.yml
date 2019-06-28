@@ -28,7 +28,7 @@ google_analytice: UA-141776052-1
 #########################################
 
 # permalink (한글 URI 깨지는 문제 해결)
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
 
 # # Build settings
 markdown: kramdown
