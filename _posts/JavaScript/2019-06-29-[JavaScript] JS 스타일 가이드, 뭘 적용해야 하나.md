@@ -2,6 +2,7 @@
 layout: post
 date:   2019-06-29 
 categories: JavaScript
+slug: styleguide
 comments: false
 ---
 
