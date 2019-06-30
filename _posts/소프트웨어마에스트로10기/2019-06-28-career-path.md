@@ -1,7 +1,8 @@
 ---
 layout: post
+title: "개발자 커리어와 덕목에 관한 이야기"
 date:   2019-06-28
-categories: 소프트웨어마에스트로10기
+categories: SoftwareMaestro-10th
 comments: false
 ---
 

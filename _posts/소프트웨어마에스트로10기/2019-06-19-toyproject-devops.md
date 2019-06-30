@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[소.마 멘토링] 배권한 멘토님 - 기획 심의 후 멘토링"
+title:  "멘토링 - Toy Project, Coding Convention, Git flow (with, 배권한 멘토님)"
 date:   2019-06-19
-categories: 소프트웨어마에스트로10기
+categories: SoftwareMaestro-10th
 comments: false
 ---
 

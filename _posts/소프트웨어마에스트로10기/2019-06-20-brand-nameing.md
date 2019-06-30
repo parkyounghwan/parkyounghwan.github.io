@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[소.마 멘토링] 주영민 멘토님 - Brand Naming"
+title:  "멘토링 - Brand Naming (with, 주영민 멘토님)"
 date:   2019-06-20
-categories: 소프트웨어마에스트로10기
+categories: SoftwareMaestro-10th
 comments: false
 ---
 
