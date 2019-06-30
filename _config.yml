@@ -5,7 +5,7 @@ description: park's Ideas & Blogs
 
 github_username: parkyounghwan
 # permalink: /:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/:categories/
+permalink: /:year/:month/:day/:categories/:title/
 
 viewsourceroot: https://github.com/parkyounghwan/parkyounghwan.github.io
 

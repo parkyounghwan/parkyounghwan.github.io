@@ -1,8 +1,8 @@
 ---
 layout: post
+title:  "자바스크립트 스타일 가이드 뭘 적용해야 할까?"
 date:   2019-06-29 
 categories: JavaScript
-slug: styleguide
 comments: false
 ---
 
