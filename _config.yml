@@ -1,39 +1,17 @@
 # Site settings
 title: 팍팍 클럽
 email: dudrnxps1@gmail.com
-description: Xizhi's Ideas & Blogs
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+description: park's Ideas & Blogs
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
 github_username: parkyounghwan
-permalink: /:year/:month/:day/:title/
-# this is the url root of the view source link on the footer page.
-# viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
+# permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:number/
+
 viewsourceroot: https://github.com/parkyounghwan/parkyounghwan.github.io
-# this is the url root of the create page link on the footer page.
-# newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
-#########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
-# disqus.com commenting system. please note that it is exclusive with duoshuo.com
+
 disqus_shortname: lixizhi
 disqus_url: "http://lixizhi.github.io"
 google_analytice: UA-141776052-1
-#########################################
-
-# permalink (한글 URI 깨지는 문제 해결)
-
 
 # # Build settings
 markdown: kramdown
-
-# highlight
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
