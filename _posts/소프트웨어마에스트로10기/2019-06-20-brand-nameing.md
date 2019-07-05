@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "멘토링 - Brand Naming (with, 주영민 멘토님)"
+title:  "Brand Naming (with, 주영민 멘토님)"
 date:   2019-06-20
 categories: SoftwareMaestro-10th
 comments: false

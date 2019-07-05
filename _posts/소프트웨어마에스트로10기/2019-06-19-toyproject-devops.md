@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "멘토링 - Toy Project, Coding Convention, Git flow (with, 배권한 멘토님)"
+title:  "Toy Project, Coding Convention, Git flow (with, 배권한 멘토님)"
 date:   2019-06-19
 categories: SoftwareMaestro-10th
 comments: false
