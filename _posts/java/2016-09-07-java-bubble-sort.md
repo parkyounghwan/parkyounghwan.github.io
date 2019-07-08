@@ -2,7 +2,7 @@
 layout: post
 title:  "버블 정렬"
 date:   2016-09-07 
-categories: java
+categories: Java
 comments: false
 ---
 -배열의 크기가 n일 때, 배열의 첫 번째부터 n-1까지의 요소에 대해, 근접한 값과 크기를 

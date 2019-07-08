@@ -2,7 +2,7 @@
 layout: post
 title:  "변수"
 date:   2016-09-05 
-categories: java
+categories: Java
 comments: false
 ---
 -변수란, 단 하나의 값을 저장할 수 있는 공간.  

@@ -2,7 +2,7 @@
 layout: post
 title:  "미로 찾기"
 date:   2016-09-13 
-categories: java
+categories: Java
 comments: false
 ---
 -순환함수(Recursive) 응용예제

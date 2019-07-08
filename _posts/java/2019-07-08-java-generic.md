@@ -2,7 +2,7 @@
 layout: post
 title: "Generic"
 date:   2019-07-08
-categories: java
+categories: Java
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "N Queens"
 date:   2016-09-20 
-categories: java
+categories: Java
 comments: false
 ---
 - 2차원 배열에서 동일한 행, 열, 대각선 상에 돌이 놓이면 안되게하는 알고리즘.
