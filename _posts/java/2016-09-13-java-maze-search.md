@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[java]-미로찾기"
+title:  "미로 찾기"
 date:   2016-09-13 
 categories: java
 comments: false

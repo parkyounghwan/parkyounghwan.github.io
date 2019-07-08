@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[java]-n-Queens"
+title:  "N Queens"
 date:   2016-09-20 
 categories: java
 comments: false

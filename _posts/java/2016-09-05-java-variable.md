@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[java]-변수"
+title:  "변수"
 date:   2016-09-05 
 categories: java
 comments: false

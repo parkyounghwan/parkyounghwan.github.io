@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "JVM / JRE / JDK"
+date:   2019-03-14
 comment: false
 categories: Java
 ---

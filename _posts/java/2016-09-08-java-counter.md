@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[java]-counter"
+title:  "Counter"
 date:   2016-09-08 
 categories: java
 comments: false

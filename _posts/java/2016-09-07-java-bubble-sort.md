@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[java]-버블정렬"
+title:  "버블 정렬"
 date:   2016-09-07 
 categories: java
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Java]-HashMap-은-어떻게-동작하는가?---1-(HashMap에-대한-정의와-Open-Addressing-까지)"
+title:  "HashMap 은 어떻게 동작하는가"
 date:   2018-12-04 
 categories: Java
 comments: false

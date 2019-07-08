@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Java]-상속과-T메모리"
+title:  "상속과 T 메모리"
 date:   2017-10-01 
 categories: Java
 comments: false

@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "Garbage Collection"
+date:   2019-03-11
 comments: false
 categories: Java
 ---

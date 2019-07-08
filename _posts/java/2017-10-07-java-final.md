@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Java]-final-키워드"
+title:  "final 키워드"
 date:   2017-10-07 
 categories: Java
 comments: false
