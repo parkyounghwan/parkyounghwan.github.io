@@ -1,3 +1,11 @@
+---
+layout: post
+title: "vue.js - 강보람 멘토님"
+date:   2019-07-09
+categories: SoftwareMaestro-10th
+comments: false
+---
+
 * React / Nust
 * 정적 사이트 생성 - 블로그
 * graphql - 자유 / grapphql
