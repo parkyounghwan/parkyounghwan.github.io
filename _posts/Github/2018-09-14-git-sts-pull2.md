@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[GitHub] Git 에서 IDE 로, IDE 에서 Git 으로 연동 2"
+title:  "Git 에서 IDE 로, IDE 에서 Git 으로 연동 2"
 date:   2018-09-14 
 categories: Github
 comments: false

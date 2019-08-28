@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[GitHub] Fork 한 Repo, 원본 Repo 와 동기화"
+title:  "Fork 한 Repo, 원본 Repo 와 동기화"
 date:   2019-06-19 
 categories: Github
 comments: false
