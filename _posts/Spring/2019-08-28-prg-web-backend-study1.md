@@ -16,6 +16,7 @@ comments: false
 * 미션 소개
 * 사전과제 리뷰
 * Q&A
+* 코드리뷰 방법
 
 <br/>
 
@@ -123,3 +124,16 @@ comments: false
 * 이직 or 커리어 관련 질문
 * 'slack' or 'live session' 으로 계속 질문
 * 해외 취업에 대한 설명 (Harry)
+
+<br/>
+
+## 코드리뷰 방법
+
+* base branch 생성 후 push [branch]
+  * class/#1_harry
+* working branch
+  * 'class/#1_harry_working'
+  * working 브렌치에서 실제 작업을 한다.
+  * 미션 수행
+* PR 을 날리는 대상 **'나의 base'** 에 날린다.
+
