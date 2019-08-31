@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "신승근 멘토님, DataBase Structure 특강"
+date:   2019-08-30
+categories: SoftwareMaestro-10th
+comments: false
+---
+
 * Data Driven Programming
 * 6개월 8억 -> 2개월 2억
 * 남의 것을 인정하지 않는 문화
